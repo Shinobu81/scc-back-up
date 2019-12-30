@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Verdana;
+}
+#content{
+  margin:auto;
+  padding:10px 20px;
+  width:860px;
+  border:2px solid #00f;
+}
+h1{
+  color:#00f;
+  font-size:18px;
+  padding-bottom:12px;
+}
+p{
+  font-size:14px;
+  line-height:28px;
+}
+.question{
+  font-weight:bold;
+}
+.answer{
+  margin-left:22px;
+  display:none;
+}
+ul{
+  margin-left:44px;
+  list-style:none;
+  display:none;
+}
+.bullet{
+  margin-left:22px;
+  list-style-type:disc;
+}
